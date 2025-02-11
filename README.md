@@ -20,7 +20,7 @@ A collection of three projects demonstrating different aspects of web developmen
   - Smooth animations
   - Mobile-first design
 
-### 3. [AWS Lambda Functions](AWS/README.md)
+### 3. [AWS Lambda Functions](https://github.com/ChrisAlister2347218/AWS.git)
 - Serverless functions using AWS Lambda
 - Features:
   - File upload to S3
