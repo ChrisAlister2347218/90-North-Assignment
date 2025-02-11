@@ -6,6 +6,7 @@ A collection of three projects demonstrating different aspects of web developmen
 
 ### 1. [Real-time Chat Application](https://github.com/ChrisAlister2347218/django-chat-app)
 - Django-based chat application with WebSocket support
+- Signup users before login since its a chat application.
 - Live Demo: [https://django-chat-10rn.onrender.com](https://django-chat-10rn.onrender.com)
 - Features:
   - Real-time messaging
